@@ -3,14 +3,14 @@ Plant App Exploration
 </h1>
 
 <div align="center">
-    <img src="./github/PlantApp.gif" alt="demo" heigth="100%">
+    <img src="./github/PlantApp.gif" alt="demo" heigth="420">
 </div>
 
 ## :ear_of_rice: Sobre o Projeto :deciduous_tree:
 
 <hr />
 
-Plant App baseado no design criado por Soumitro no Dribbble.
+Plant App baseado no design criado por Soumitro no Dribbble.<br />
 <img src="https://static.dribbble.com/users/1909255/screenshots/6910440/frame_4x.png?compress=1&resize=1200x900" width="120" />
 
 ## 💻 Tecnologias:
