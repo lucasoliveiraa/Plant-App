@@ -3,7 +3,7 @@ Plant App Exploration
 </h1>
 
 <div align="center">
-    <img src="./github/PlantApp.gif" alt="demo" heigth="420">
+    <img src="./github/PlantApp.gif" alt="demo" heigth="420px">
 </div>
 
 ## :ear_of_rice: Sobre o Projeto :deciduous_tree:
