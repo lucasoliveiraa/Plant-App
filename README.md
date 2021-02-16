@@ -2,10 +2,6 @@
 Plant App Exploration
 </h1>
 
-<div align="center">
-    <img src="./github/PlantApp.gif" alt="demo" heigth="300px">
-</div>
-
 ## :ear_of_rice: Sobre o Projeto :deciduous_tree:
 
 <hr />
